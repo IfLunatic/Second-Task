@@ -1,0 +1,14 @@
+C:\uni\Secind Task\csharp\bin\Debug\net10.0\ParallelArraySum.exe
+C:\uni\Secind Task\csharp\bin\Debug\net10.0\ParallelArraySum.deps.json
+C:\uni\Secind Task\csharp\bin\Debug\net10.0\ParallelArraySum.runtimeconfig.json
+C:\uni\Secind Task\csharp\bin\Debug\net10.0\ParallelArraySum.dll
+C:\uni\Secind Task\csharp\bin\Debug\net10.0\ParallelArraySum.pdb
+C:\uni\Secind Task\csharp\obj\Debug\net10.0\ParallelArraySum.GeneratedMSBuildEditorConfig.editorconfig
+C:\uni\Secind Task\csharp\obj\Debug\net10.0\ParallelArraySum.AssemblyInfoInputs.cache
+C:\uni\Secind Task\csharp\obj\Debug\net10.0\ParallelArraySum.AssemblyInfo.cs
+C:\uni\Secind Task\csharp\obj\Debug\net10.0\ParallelArraySum.csproj.CoreCompileInputs.cache
+C:\uni\Secind Task\csharp\obj\Debug\net10.0\ParallelArraySum.dll
+C:\uni\Secind Task\csharp\obj\Debug\net10.0\refint\ParallelArraySum.dll
+C:\uni\Secind Task\csharp\obj\Debug\net10.0\ParallelArraySum.pdb
+C:\uni\Secind Task\csharp\obj\Debug\net10.0\ParallelArraySum.genruntimeconfig.cache
+C:\uni\Secind Task\csharp\obj\Debug\net10.0\ref\ParallelArraySum.dll

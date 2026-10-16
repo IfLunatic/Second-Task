@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ParallelArraySum/1.0.0": {
+        "runtime": {
+          "ParallelArraySum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParallelArraySum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
